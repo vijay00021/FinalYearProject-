@@ -1,0 +1,40 @@
+create one new folder in your laptop
+
+now copy my GitHub repo link:
+ 
+	git clone https://github.com/vijay00021/FinalYearProject-.git
+
+1.Open VS Code
+
+Press Ctrl + Shift + P
+
+Select Git: Clone
+
+Paste repo link
+
+2.Choose a folder which you just created new folder
+
+3.Click Open
+
+now open you named folder inside the main folder 
+
+now you can add any files/folders here !! what ever it may be either the files in pdfs, code, etc.
+
+Now if you want to push this into our GitHub repo 
+
+open terminal and paste this commands 
+
+git status
+git add .
+git commit -m "any message here , what you updated "
+git push
+
+🎉 DONE!
+Files are now uploaded to YOUR GitHub repo.
+
+
+Very important :
+
+	ee gap lo mana team members emaina work chesi untaaru kaabatti vallavi mana dhaantlo kanipinchavu so , first manam project open chesaaka terminal lo " git pull " aney command run chesthey , mana team members chesina changes commit(save) ayithavi , antey avi kanipisthaayi
+
+
